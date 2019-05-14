@@ -10,4 +10,6 @@ puts "El resultado de la multiplicacion", numero1 * numero2
 puts "El resultado de la division", numero1 / numero2
 puts "El resultado de la residuo", numero1 % numero2
 
-gets()
+
+
+
